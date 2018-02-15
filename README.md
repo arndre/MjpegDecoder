@@ -1,6 +1,5 @@
-# MjpegDecoder
-modified version of incorrect article on coding4fun (https://channel9.msdn.com/coding4fun/articles/MJPEG-Decoder)
-
+# C# Mjpeg Decoder
+modified version of article on coding4fun (https://channel9.msdn.com/coding4fun/articles/MJPEG-Decoder)
  
  * Removed preprocessor directives for XNA, WINRT,...
  * Fixed frame drops 
